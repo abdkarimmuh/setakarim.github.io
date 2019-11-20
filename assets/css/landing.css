@@ -112,6 +112,11 @@ body {
     color: #000;
 }
 
+.navbar .navbar-brand .navbar-img {
+    width: 42px;
+    object-fit: cover;
+}
+
 .fixed-top {
     position: fixed;
     top: 0;
@@ -1443,6 +1448,11 @@ footer ul li a:hover {
 
     .navbar .nav-link:focus {
         color: #000;
+    }
+
+    .navbar .navbar-brand .navbar-img {
+        width: 18px;
+        object-fit: cover;
     }
 
     .licenses .license {
