@@ -152,12 +152,6 @@ html {
         margin-bottom: 32px;
     }
 
-    .hero .container {
-        padding-top: 80px;
-        padding-bottom: 80px;
-        height: 100%;
-    }
-
     .section-about {
         position: relative;
         padding-top: 0 !important;
